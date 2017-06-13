@@ -1,0 +1,75 @@
+#colorOrange{
+color: #F05F40;
+
+}
+
+#padingBottom-10{
+    padding-bottom: 10px;
+}
+
+.marginbottom-10{
+    margin-bottom: 10px;
+}
+.margin-top15{
+	margin-top: 50px;
+}
+
+#body{
+	background-color: #222;
+}
+
+.nsNaslov{
+    color: #1c8cef !important;
+}
+
+.Povratak:hover{
+    text-decoration: none;
+}
+
+.nsNaslovTop{
+    color: #F05F40 !important;
+}
+
+.ParagrafServis{
+    color: lightgray!important;
+}
+
+
+
+.body{
+    background-color: #222 !important;
+}
+
+.h2-naslov {
+	color: rgba(255,255,255,.7);
+}
+
+.margin-complete-5px{
+    margin: 5px;
+    
+
+}
+
+.border10px{
+  border: solid #F05F40 3px;
+    border-radius: 10px
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+@media only screen and (max-width: 768px) {
+    /* For desktop: */
+.margin-bottom{
+    margin-bottom: 3px;
+     border: solid #F05F40 2px;
+    
+}
+}
+
+
+
+
+
+
